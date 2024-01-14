@@ -1,0 +1,8 @@
+HTML
+CSS
+Javascript
+php
+sql
+
+Алгоритмы и структуры данных
+ООП
